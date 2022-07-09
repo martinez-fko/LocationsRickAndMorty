@@ -18,8 +18,8 @@ const Search = () => {
 
   return (
     <div className="header">
-      <img src="src/images/image3.svg" alt="" className="img-principal" />
-      <img src="src/images/image2.svg" alt="" className="img-text" />
+      <img src="images/image3.svg" alt="" className="img-principal" />
+      <img src="images/image2.svg" alt="" className="img-text" />
       <div className="search">
         <input
           type="text"
