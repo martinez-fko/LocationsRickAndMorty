@@ -16,7 +16,7 @@ npm install
 
 ## Preview
 
-![](/img/preview.png)
+![](/preview.png)
 
 ## Tecnologías Usadas
 
